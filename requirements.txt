@@ -1,4 +1,4 @@
 flask
 numpy
-tensorflow
+tensorflow-cpu
 scikit-learn
