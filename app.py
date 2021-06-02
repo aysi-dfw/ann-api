@@ -1,9 +1,9 @@
 import flask
 import numpy as np
 import tensorflow as tf
-import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 K = tf.keras
+
 
 class NeuralNet:
     def __init__(self):
